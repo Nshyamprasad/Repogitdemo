@@ -11,5 +11,7 @@ public class Pagelogin {
 	{
 	
 	}
+	public void home(){
 	
+	}	
 }
